@@ -17,6 +17,9 @@
   }
 }
 
+.test{
+  background: var(--accent-bg);
+}
 .hero {
   position: relative;
 
